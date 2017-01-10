@@ -1,0 +1,77 @@
+AdvancedNewFile
+Bootstrap 3 Snippets
+Emmet
+HTML-CSS-JS Prettify
+JavaScript & NodeJs Snippets
+Syntax Highlighting for sass
+Theme-Spacegray
+Typescript
+colorsublime
+
+defatult settings
+
+{
+	"color_scheme": "Packages/Colorsublime - Themes/Afterglow.tmTheme",
+	"file_exclude_patterns":
+	[
+		"*.js",
+		"*.js.map",
+		"*.spec.ts"
+	],
+	"folder_exclude_patterns":
+	[
+		"e2e",
+		"node_modules",
+		"typings"
+	],
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Material Theme",
+		"TypescriptCompletion",
+		"Vintage"
+	],
+	"spacegray_fileicons": true,
+	"spacegray_sidebar_font_xlarge": true,
+	"theme": "Spacegray Eighties.sublime-theme",
+	"word_wrap": "true"
+}
+
+
+
+default keys
+
+[
+	{ "keys": ["alt+s"], "command": "toggle_side_bar" },
+	{ "keys": ["ctrl+alt+s"], "command": "save_all" },
+]
+
+
+
+********  SUBLIME THEME **************
+
+{
+
+"color_scheme": "Packages/Colorsublime - Themes/Afterglow.tmTheme",
+"spacegray_fileicons": true,
+	"spacegray_sidebar_font_xlarge": true,
+	"theme": "Spacegray Eighties.sublime-theme", 
+
+} 
+
+
+****************** END THEME ******************
+COMMAND git config --global --edit
+ 
+GIT GLOBAL CONFIGURATION
+
+[user]
+	email = davepillowgood@gmail.com
+	name = uzzol101
+[web]
+	browser = google-chrome
+[core]
+	editor = 'c:/program files/sublime text 3/subl.exe' -w
+[credential]
+	helper = wincred
+
