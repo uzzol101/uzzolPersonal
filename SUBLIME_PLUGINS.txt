@@ -62,7 +62,9 @@ default keys
 
 ****************** END THEME ******************
 COMMAND git config --global --edit
- 
+ Retrieve the locations (and name value pairs) of all git configuration files:
+git config --list --show-origin
+
 GIT GLOBAL CONFIGURATION
 
 
