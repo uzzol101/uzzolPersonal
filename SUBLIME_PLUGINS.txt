@@ -65,9 +65,7 @@ COMMAND git config --global --edit
  
 GIT GLOBAL CONFIGURATION
 
-[user]
-	email = davepillowgood@gmail.com
-	name = uzzol101
+
 [web]
 	browser = google-chrome
 [core]
