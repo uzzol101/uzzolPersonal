@@ -11,7 +11,7 @@ colorsublime
 defatult settings
 
 {
-	"color_scheme": "Packages/Colorsublime - Themes/Afterglow.tmTheme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
 	"file_exclude_patterns":
 	[
 		"*.js",
