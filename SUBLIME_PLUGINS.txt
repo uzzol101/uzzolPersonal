@@ -64,6 +64,8 @@ default keys
 COMMAND git config --global --edit
  Retrieve the locations (and name value pairs) of all git configuration files:
 git config --list --show-origin
+Set your email address with the following command:
+git config --global user.email "your_email@example.com"
 
 GIT GLOBAL CONFIGURATION
 
